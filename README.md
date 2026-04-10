@@ -14,19 +14,19 @@
 ## ⚡ About Me
 
 * 💻 Building **scalable web applications**
-* 🧠 Grinding **Data Structures & Algorithms daily**
+* 🧠 Practicing **Data Structures & Algorithms daily**
 * ⚙️ Exploring **Backend & System Design**
-* 🚀 Turning ideas into **real-world products**
-* ☕ Debugging powered by *chai*
+* 🚀 Turning ideas into **real-world usable products**
+* 🎯 Focused on **consistency over motivation**
 
 ---
 
 ## 🚀 Current Mission
 
-* 📚 Advanced **DSA mastery**
+* 📚 Mastering **Advanced DSA**
 * 🛠 Building **Backend Projects (APIs, Auth, DB Design)**
 * 🧩 Learning **System Design**
-* 📈 Consistency & growth mindset
+* 📈 Becoming better than yesterday
 
 ---
 
@@ -60,14 +60,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DeepuCodesss&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepuCodesss&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -118,7 +110,7 @@ const mindset = () => {
 
 ## ⚡ Fun Fact
 
-> I debug faster with chai ☕ than with Google 😄
+> I enjoy building things that people can actually use — not just code that runs
 
 ---
 
