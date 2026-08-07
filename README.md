@@ -53,9 +53,7 @@ Right now I'm deep in:
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepucodesss&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepucodesss&theme=dark&hide_border=true" />
 </p>
